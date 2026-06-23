@@ -147,5 +147,3 @@ Contributions, suggestions, and improvements are welcome.
 Feel free to fork this repository, create a new branch, and submit a pull request.
 
 ---
-
-### 👨‍💻 Developed with passion for Machine Learning and continuous learning.
